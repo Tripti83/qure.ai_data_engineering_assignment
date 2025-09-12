@@ -1,7 +1,7 @@
 # qure.ai_data_engineering_assignment
 ## LIDC DICOM Data Ingestion, Validation, Metadata Extraction, and Database Loading
 
-This project demonstrates a complete pipeline for handling a small subset of the LIDC-IDRI DICOM dataset. The workflow is implemented in the notebook `question1.ipynb` and covers the following stages:
+This project demonstrates a complete pipeline for handling a small subset of the LIDC-IDRI DICOM dataset. The workflow is implemented in the notebook `Assignment_Notebook.ipynb` and covers the following stages:
 
 ## Table of Contents
 - [Overview](#overview)
